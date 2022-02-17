@@ -1,0 +1,30 @@
+rr rt
+Process : msedge , Title: cmg - Profile 1 - Microsoft​ Edge , Process Time : 2 Days, 11 Hours, 43 Minutes, 25 Seconds and 270 Milliseconds
+Process : cmd , Title: C:\Windows\System32\cmd.exe , Process Time : 1 Days, 6 Hours, 41 Minutes, 31 Seconds and 767 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 2 Days, 10 Hours, 59 Minutes, 29 Seconds and 55 Milliseconds
+Process : notepad , Title: Login.cs - Notepad , Process Time : 1 Days, 1 Hours, 11 Minutes, 21 Seconds and 704 Milliseconds
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 3 Days, 20 Hours, 52 Minutes, 26 Seconds and 574 Milliseconds
+Process : Teams , Title: Chat | Microsoft Teams , Process Time : 3 Days, 20 Hours, 51 Minutes, 59 Seconds and 382 Milliseconds
+Process : Admin_SSDA , Title:   , Process Time : 0 Days, 0 Hours, 0 Minutes, 12 Seconds and 954 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 3 Days, 20 Hours, 48 Minutes, 23 Seconds and 765 Milliseconds
+Process : NSIS , Title: NSIS Menu , Process Time : 2 Days, 10 Hours, 23 Minutes, 43 Seconds and 107 Milliseconds
+Process : notepad , Title: studentData.cs - Notepad , Process Time : 0 Days, 0 Hours, 21 Minutes, 39 Seconds and 239 Milliseconds
+Process : cmd , Title: C:\Windows\System32\cmd.exe , Process Time : 0 Days, 9 Hours, 27 Minutes, 16 Seconds and 23 Milliseconds
+Process : chrome , Title: Deleting ClientApp/Admin_SSDA/ at main · fatima2254/ClientApp - Google Chrome , Process Time : 0 Days, 0 Hours, 58 Minutes, 6 Seconds and 127 Milliseconds
+Process : ApplicationFrameHost , Title: Snip & Sketch , Process Time : 3 Days, 20 Hours, 48 Minutes, 23 Seconds and 915 Milliseconds
+Process : devenv , Title: Admin_SSDA (Running) - Microsoft Visual Studio , Process Time : 0 Days, 9 Hours, 53 Minutes, 10 Seconds and 587 Milliseconds
+rr rt
+Process : msedge , Title: cmg - Profile 1 - Microsoft​ Edge , Process Time : 2 Days, 11 Hours, 43 Minutes, 55 Seconds and 752 Milliseconds
+Process : cmd , Title: C:\Windows\System32\cmd.exe , Process Time : 1 Days, 6 Hours, 42 Minutes, 2 Seconds and 239 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 2 Days, 10 Hours, 59 Minutes, 59 Seconds and 523 Milliseconds
+Process : notepad , Title: Login.cs - Notepad , Process Time : 1 Days, 1 Hours, 11 Minutes, 52 Seconds and 171 Milliseconds
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 3 Days, 20 Hours, 52 Minutes, 57 Seconds and 38 Milliseconds
+Process : Teams , Title: Chat | Microsoft Teams , Process Time : 3 Days, 20 Hours, 52 Minutes, 29 Seconds and 849 Milliseconds
+Process : Admin_SSDA , Title: 31 , Process Time : 0 Days, 0 Hours, 0 Minutes, 43 Seconds and 421 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 3 Days, 20 Hours, 48 Minutes, 54 Seconds and 237 Milliseconds
+Process : NSIS , Title: NSIS Menu , Process Time : 2 Days, 10 Hours, 24 Minutes, 13 Seconds and 574 Milliseconds
+Process : notepad , Title: studentData.cs - Notepad , Process Time : 0 Days, 0 Hours, 22 Minutes, 9 Seconds and 705 Milliseconds
+Process : cmd , Title: C:\Windows\System32\cmd.exe , Process Time : 0 Days, 9 Hours, 27 Minutes, 46 Seconds and 491 Milliseconds
+Process : chrome , Title: Deleting ClientApp/Admin_SSDA/ at main · fatima2254/ClientApp - Google Chrome , Process Time : 0 Days, 0 Hours, 58 Minutes, 36 Seconds and 588 Milliseconds
+Process : ApplicationFrameHost , Title: Snip & Sketch , Process Time : 3 Days, 20 Hours, 48 Minutes, 54 Seconds and 356 Milliseconds
+Process : devenv , Title: Admin_SSDA (Running) - Microsoft Visual Studio , Process Time : 0 Days, 9 Hours, 53 Minutes, 41 Seconds and 30 Milliseconds
